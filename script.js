@@ -1,4 +1,4 @@
-const baseURL = "https://mysterious-fortress-23550";
+const baseURL = "https://mysterious-fortress-23550.herokuapp.com";
 const postList = document.getElementById("post-list");
 
 const fetchPosts = async () => {
